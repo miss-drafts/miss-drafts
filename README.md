@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **nothinh**
 
-- 📫 How to reach me **lakshnavkirat@gmail.com**
+- 📫 How to reach me **abc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
