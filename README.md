@@ -36,3 +36,5 @@
 ###
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miss-drafts&" alt="miss-drafts" /></p>
+
+![Top Languages](https://vani-stats.vercel.app/api?miss-drafts&theme=tokyonight)
